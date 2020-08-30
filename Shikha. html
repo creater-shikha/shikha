@@ -1,0 +1,69 @@
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+h1{
+  font-size:75%;
+  form:center;
+  }
+.box{
+  bg-color:lightyellow;
+  color:black; 
+  border:1px;
+  margin:5px;
+  padding:2px;
+  
+}
+#first{
+ bg-color:lightblue ;
+ colour:black;
+ font-size:25%;
+}
+#second {
+ bg-color:lightblue ;
+ colour:black;
+ font-size:25%;
+}
+#third{
+ bg-color:lightblue ;
+ colour:black;
+ font-size:25%;
+}
+p{
+  position:absolute;
+  bottom:100%;
+  left:100%;
+  margin:2px;
+  padding:2px;
+}
+</style>
+</head>
+<link rel="stylesheet" href="index. css">
+<body>
+<h1>our menu</h1>
+<div>
+<div class="box"><p id="first">first</p>
+This is shikha soni.I am doing B-tech first year from Indira Gandhi Engineering College. My branch is Information technology engineering and I Want to pursue my degree in Jabalpur Engineering College . Sir, I want to know  what is the process of college transfer , will you plz help me to know number of seats available in IT  branch and what is the procedure? when will the application form come out ?
+</div>
+<div class="box"><p id="second">second</p>
+This is shikha soni.I am doing B-tech first year from Indira Gandhi Engineering College. My branch is Information technology engineering and I Want to pursue my degree in Jabalpur Engineering College . Sir, I want to know  what is the process of college transfer , will you plz
+  <title>Document</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+<h1>our menu</h1>
+<div>
+<div class="box"><p id="first">first</p>
+This is shikha soni.I am doing B-tech first year from Indira Gandhi Engineering College. My branch is Information technology engineering and I Want to pursue my degree in Jabalpur Engineering College . Sir, I want to know  what is the process of college transfer , will you plz help me to know number of seats available in IT  branch and what is the procedure? when will the application form come out ?
+</div>
+<div class="box"><p id="second">second</p>
+This is shikha soni.I am doing B-tech first year from Indira Gandhi Engineering College. My branch is Information technology engineering and I Want to pursue my degree in Jabalpur Engineering College . Sir, I want to know  what is the process of college transfer , will you plz
